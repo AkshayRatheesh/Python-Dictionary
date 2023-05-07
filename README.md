@@ -3,7 +3,7 @@ Python Dictionary Project
 
 ------------------------------------------------------------------------------------------------
 
-Create Python vertual environment
+Create Python virtual environment
     `py -3 -m venv venv`
 
 ------------------------------------------------------------------------------------------------
